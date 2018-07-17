@@ -9,55 +9,43 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rahul Baburajan
+    tagline: AI Researcher
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: rahuledachali@gmail.com
+    phone: +91 8075905791
+    website: rahulbaburaj.github.io #do not add http://
+    linkedin: rahul-edachali
+    github: rahulbaburaj
+    twitter: '@rahuledachali'
 
     languages:
         - language:
-          idiom: English
+          idiom: Malayalam
           level: Native
         - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
+          idiom: English
           level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Photography
           link:
         - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
-          link:
-
-        
-
-
-
+          item: Travel
+          link:      
 
 career-profile: 
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
-
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: B-Tech in Engineering Physics
+      university: Indian Institute of Technology, Madras
+      time: 2014 - 2018
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
